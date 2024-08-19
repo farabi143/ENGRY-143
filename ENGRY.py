@@ -1,3 +1,3 @@
 import os
-import Random
-Random.login()
+import GrEaT
+GrEaT.login()
